@@ -20,7 +20,7 @@ target/
 makefile
 
 # App
-/chat
-/downloads
+/chat/
+/downloads/
 token.json
 config.json
